@@ -1,7 +1,7 @@
 -- Builds a drivable car at game start. Walk up to it and press the "Enter Car" prompt.
 -- Drive with W/A/S/D, jump to get out.
 
-local SPAWN_POSITION = Vector3.new(20, 4, 0)
+local SPAWN_POSITION = Vector3.new(34, 4, 0)
 
 local MAX_SPEED = 80 -- studs/second
 local MAX_STEER_ANGLE = 30 -- degrees
